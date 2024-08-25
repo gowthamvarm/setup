@@ -12,3 +12,5 @@ conda remove -n myenv --all                # Remove environment by name
 conda list                                 # List installed packages
 conda install package_name                 # Install a package in active environment
 conda update --all                         # Update all packages in active environment
+
+pip install -r requirements.txt
